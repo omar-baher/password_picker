@@ -4,7 +4,9 @@ nouns = ['Chair', 'Laptop', 'Book', 'City', 'New York', 'Banana',  'Family', 'Ic
 adjectives = ['Blue', 'Red', 'Purple', 'Green', 'Black', 'Cyan', 'Rainbow', 'Marin', 'Mink', 'Orange', ]
 punctuations = ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')', ]
 
+print('---------------------------------------------------------------------------------------------------------------')
 print('-*-*-*-*-*-*-*-*-*-> Welcome to password picker,this app creates a hard password to crack. <-*-*-*-*-*-*-*-*-*-')
+print('---------------------------------------------------------------------------------------------------------------')
 print('')
 
 is_new_password_required = True
